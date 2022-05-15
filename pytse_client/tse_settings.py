@@ -59,6 +59,10 @@ KEY_STATS_URL = (
     "http://www.tsetmc.com/tsev2/data/InstValue.aspx?t=a"
 )
 
+CLIENT_TYPES_URL = (
+    "http://www.tsetmc.com/tsev2/data/ClientTypeAll.aspx"
+)
+
 
 DATE_FORMAT = "%Y%m%d"
 MIN_DATE = 20010321
